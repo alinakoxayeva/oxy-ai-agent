@@ -1,0 +1,25 @@
+{
+  "name": "oxy-ai-agent",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@langchain/core": "^1.2.8",
+    "@langchain/openai": "^1.5.8",
+    "@slack/bolt": "^5.0.0",
+    "@slack/web-api": "^8.0.0",
+    "axios": "^1.19.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "pg": "^8.23.0",
+    "react": "^19.3.0"
+  }
+}
