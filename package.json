@@ -2,8 +2,8 @@
   "name": "oxy-ai-agent",
   "version": "1.0.0",
   "description": "",
-  "license": "ISC",
-  "author": "",
+  "license": "MIT",
+  "author": "Alina Kokhayeva",
   "type": "module",
   "main": "index.js",
   "scripts": {
