@@ -18,7 +18,6 @@ A Slack-based AI agent built with Node.js, LangChain and OpenAI, with PostgreSQL
 - 🧠 Uses LangChain with OpenAI models to generate responses
 - 🗄️ Stores data in a PostgreSQL database
 - ⚡ Lightweight Express server for handling requests
-- [Add your own feature here]
 
 ## 🛠️ Tech Stack
 
